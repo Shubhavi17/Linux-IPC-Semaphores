@@ -23,6 +23,7 @@ DEVELOPED BY: Shubhavi.M
 REG NO: 212223040199
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
+```
 /*
  * sem-producer-consumer.c  - demonstrates a basic producer-consumer
  *                            implementation.
@@ -106,10 +107,12 @@ if(NUM_LOOPS>=10)    {
 	    break;
     }
     return 0;}
+```
 
 
 ## OUTPUT
 $ ./sem.o 
+
 ![Screenshot 2024-04-18 152200](https://github.com/Shubhavi17/Linux-IPC-Semaphores/assets/150005085/ff1f0ea6-db8e-466d-8bfa-19ad27f154f9)
 
 
